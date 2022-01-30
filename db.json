@@ -1,0 +1,395 @@
+{
+	"swiper": [{
+			"id": 1,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big39001.jpg"
+		},
+		{
+			"id": 2,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big39002.jpg"
+		},
+		{
+			"id": 3,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big39003.jpg"
+		},
+		{
+			"id": 4,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big39004.jpg"
+		}
+	],
+	"shops": [{
+			"id": 1,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家1"
+		},
+		{
+			"id": 2,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家2"
+		},
+		{
+			"id": 3,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家3"
+		},
+		{
+			"id": 4,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家4"
+		},
+		{
+			"id": 5,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家5"
+		},
+		{
+			"id": 6,
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家4"
+		}
+	],
+	"goodsCategory": [{
+			"label": "第一页",
+			"slot": "slot-1",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家2"
+		},
+		{
+			"label": "第2页",
+			"slot": "slot-2",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家2"
+		},
+		{
+			"label": "第3页",
+			"slot": "slot-3",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家3"
+		},
+		{
+			"label": "第4页",
+			"slot": "slot-4",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家4"
+		},
+		{
+			"label": "第5页",
+			"slot": "slot-5",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家5"
+		},
+		{
+			"label": "第6页",
+			"slot": "slot-6",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家6"
+		},
+		{
+			"label": "第7页",
+			"slot": "slot-7",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家7"
+		},
+		{
+			"label": "第8页",
+			"slot": "slot-8",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家8"
+		}
+	],
+	"goodsCategoryList": [{
+			"id": "1",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家1",
+			"slot": "slot-1",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家01"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家02"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家03"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家04"
+				}
+			]
+		},
+		{
+			"id": "2",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家2",
+			"slot": "slot-2",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		},
+		{
+			"id": "3",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家3",
+			"slot": "slot-3",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		},
+		{
+			"id": "4",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家4",
+			"slot": "slot-4",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		},
+		{
+			"id": "5",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家5",
+			"slot": "slot-5",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		},
+		{
+			"id": "6",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家6",
+			"slot": "slot-6",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		},
+		{
+			"id": "7",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家7",
+			"slot": "slot-7",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		},
+		{
+			"id": "8",
+			"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"title": "商家8",
+			"slot": "slot-8",
+			"list": [{
+					"id": "1",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家001"
+				},
+				{
+					"id": "2",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家002"
+				},
+				{
+					"id": "3",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家003"
+				},
+				{
+					"id": "4",
+					"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+					"title": "商家004"
+				}
+			]
+		}
+	],
+	"goodsRecommend": {
+		"label": "热门推荐",
+		"slot": "slot-0",
+		"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+		"title": "商家1",
+		"list": [{
+				"id": "1",
+				"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+				"title": "商家001"
+			},
+			{
+				"id": "2",
+				"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+				"title": "商家002"
+			},
+			{
+				"id": "3",
+				"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+				"title": "商家003"
+			},
+			{
+				"id": "4",
+				"pic": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+				"title": "商家004"
+			}
+		]
+	},
+	"swiperDate":[
+		{
+			"title": "2019“中国最好学科排名” 四川3所高校各有1个学科点入",
+			"hot": "热",
+			"type": "教育",
+			"time": "2016.11.21"
+		},
+		{
+			"title": "BW成都站2019有哪些b站up主嘉宾(时间+地点+门票)",
+			"hot": "",
+			"type": "民生热点",
+			"time": "2016.11.21"
+		},
+		{
+			"title": "成都：公积金贷款系统升级 最快15个工作日左右到账最快15个工作日左右到账",
+			"hot": "",
+			"type": "住房",
+			"time": "2016.11.21"
+		},
+		{
+			"title": "成灌线刷天府通坐高铁预计 明年5月可实现",
+			"hot": "",
+			"type": "名生热点",
+			"time": "2016.11.21"
+		},
+		{
+			"title": "成都车主朋友注意!未安装ETC走成都绕城、成温邛...",
+			"hot": "",
+			"type": "交通",
+			"time": "2016.11.21"
+		},
+		{
+			"title": "成都车主朋友注意!未安装ETC走成都绕城、成温邛...",
+			"hot": "",
+			"type": "交通",
+			"time": "2016.11.21"
+		},
+		{
+			"title": "成都车主朋友注意!未安装ETC走成都绕城、成温邛...",
+			"hot": "",
+			"type": "交通",
+			"time": "2016.11.21"
+		}
+	],
+	"goodsList":[
+		{
+			"name": "炭烧烧鸭饭",
+			"imgUrl": "https://ossweb-img.qq.com/images/lol/web201310/skin/big10001.jpg",
+			"price": "18"
+		},
+	],
+
+}
